@@ -1,1 +1,0 @@
-# Bloodbank-managemet-system
